@@ -32,6 +32,10 @@ header, main, footer {
 	width: 50%;
 }
 
+.shoe {
+	width: 100%;
+}
+
 .search .search-wrapper i.material-icons {
   position: absolute;
   top: 21px;
