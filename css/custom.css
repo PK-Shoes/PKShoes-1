@@ -28,6 +28,10 @@ header, main, footer {
   box-sizing: border-box;
 }
 
+#pkshoes-header-logo {
+	width: 66%;
+}
+
 .search .search-wrapper i.material-icons {
   position: absolute;
   top: 21px;
